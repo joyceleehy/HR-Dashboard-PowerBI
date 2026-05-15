@@ -1,8 +1,9 @@
-# Employee-Attrition-Retention-Insights-Dashboard-PowerBI
+# Employee Attrition & Retention Insights Dashboard | Power BI
 
 ## Project Overview
 
-This HR Dashboard was created using Power BI Desktop to analyze employee overview metrics, salary trends, demographics, job satisfaction, and attrition patterns.
+This Employee Attrition & Retention Insights Dashboard was created using Power BI Desktop to analyze employee overview metrics, salary trends, demographics, job satisfaction, and attrition patterns.
+
 
 The dashboard includes two report pages: an employee overview page and an attrition analysis page. Together, they provide a clear view of workforce composition, compensation patterns, and employee turnover risks.
 
