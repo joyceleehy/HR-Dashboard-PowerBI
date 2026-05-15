@@ -1,4 +1,4 @@
-# HR Dashboard | Power BI
+# Employee-Attrition-Retention-Insights-Dashboard-PowerBI
 
 ## Project Overview
 
