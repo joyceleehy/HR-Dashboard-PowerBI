@@ -85,3 +85,9 @@ The Power BI `.pbix` file is not included at this stage because the dataset priv
 ## About This Project
 
 This project was created as part of my data analytics portfolio to demonstrate skills in Power BI dashboard design, KPI reporting, HR analytics, attrition analysis, and business intelligence storytelling.
+
+## About Me
+
+Data Analyst with a background in People Analytics and BI. Currently open to Data Analyst, BI Analyst, and Analytics roles across industries.
+
+📎 [LinkedIn](https://www.linkedin.com/in/joyceleehowyee/) · [GitHub Portfolio](https://github.com/joyceleehy)
